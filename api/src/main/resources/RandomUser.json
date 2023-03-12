@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Idalécio",
+        "last": "Araújo"
+      },
+      "location": {
+        "street": {
+          "number": 9646,
+          "name": "Rua Mato Grosso "
+        },
+        "city": "Uruguaiana",
+        "state": "Alagoas",
+        "country": "Brazil",
+        "postcode": 67072,
+        "coordinates": {
+          "latitude": "-79.6883",
+          "longitude": "-1.2980"
+        },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "idalecio.araujo@example.com",
+      "login": {
+        "uuid": "70df6f0a-2394-4bf1-ae16-6dac3ced692b",
+        "username": "biggorilla448",
+        "password": "tootie",
+        "salt": "joLsU0fP",
+        "md5": "129e981cee4e924e788a20e9f2f4b712",
+        "sha1": "aeefad1b0262b58d5eef50b58873308d94312de4",
+        "sha256": "428c29cce5b80a0c113549e5ee42a8b4a5fcb6f9b33f918a94688061b42072af"
+      },
+      "dob": {
+        "date": "1993-12-13T10:15:31.421Z",
+        "age": 29
+      },
+      "registered": {
+        "date": "2015-08-16T18:14:26.647Z",
+        "age": 7
+      },
+      "phone": "(27) 8835-1734",
+      "cell": "(81) 5381-1673",
+      "id": {
+        "name": "CPF",
+        "value": "357.895.103-46"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": {
+    "seed": "dd150229e9a5db3c",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
